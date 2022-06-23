@@ -7,6 +7,20 @@ Essentially this is an elaborate way to waterproof and ruggedise a Raspberry Pi 
 
 v3 of the system is intended to work with the ESP32 - WIP :)
 
+## v2 - Mini Fluxnode
+
+![v2 Mini Fluxnode with LEDs](v2/images/v2-fluxnode-1.jpg?raw=true)
+
+- [Start Here](v2/README.md)
+- [Component List](v2/components.md)
+- [Build Instructions](v2/instructions.md)
+
+Internal 12/24V DC -> 5V DC power supply (150W).
+
+8x LED outputs.
+
+Waterproof/dustproof.
+
 ## v1 - Fluxnode
 
 ![v1 Fluxnode with LEDs](v1/images/v1-fluxnode-1.jpg?raw=true)
@@ -21,16 +35,3 @@ Internal 12/24V DC -> 5V DC power supply (150W).
 
 8x LED outputs.
 
-## v2 - Mini Fluxnode
-
-![v2 Mini Fluxnode with LEDs](v2/images/v2-fluxnode-1.jpg?raw=true)
-
-- [Start Here](v2/README.md)
-- [Component List](v2/components.md)
-- [Build Instructions](v2/instructions.md)
-
-Internal 12/24V DC -> 5V DC power supply (150W).
-
-8x LED outputs.
-
-Waterproof/dustproof.
