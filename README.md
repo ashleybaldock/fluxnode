@@ -1,4 +1,4 @@
-# fluxnode
+# Fluxnode Documentation
 Fluxnodes are the hardware side of my lighting system
 
 Designed to be built from mostly off-the-shelf components, this guide includes parts lists for the purchaseable components, 3D models to print the specialised parts, and PCB files for the custom 'motherboard'. Build instructions also provided.
