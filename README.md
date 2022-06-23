@@ -9,7 +9,7 @@ v3 of the system is intended to work with the ESP32 - WIP :)
 
 ## v1 - Fluxnode
 
-![v1 Fluxnode with LEDs](v2/images/v1-fluxnode-1.jpg?raw=true)
+![v1 Fluxnode with LEDs](v1/images/v1-fluxnode-1.jpg?raw=true)
 
 - [Start Here](v1/README.md)
 - [Component List](v1/components.md)
